@@ -3,12 +3,15 @@
 This repository contains code to analyze the effectiveness of various drugs on treating squamous cell carcinoma (SCC) in 249 mice. The analysis calculates key metrics, such as mean, median, variance, standard deviation, and standard error of the mean (SEM) for each drug.
 
 **Data Source**
+
 The analysis is based on a dataset of mouse metadata and study results, which includes information on each mouse and the effect of different treatment drugs on their squamous cell carcinoma (SCC). The dataset is available in the Pymaceuticals/data repository.
 
 **Getting Started**
+
 To perform the analysis, clone the repository and run the Pymaceuticals_AnalysisCode.ipynb notebook in the Pymaceuticals folder. The notebook includes code to read the data, calculate metrics, and create summary DataFrames.
 
-**Requurments**
+**Requirements**
+
 The analysis requires the following libraries:
 
 pandas
