@@ -10,7 +10,7 @@ The analysis is based on a dataset of mouse metadata and study results, which in
 
 To perform the analysis, clone the repository and run the Pymaceuticals_AnalysisCode.ipynb notebook in the Pymaceuticals folder. The notebook includes code to read the data, calculate metrics, and create summary DataFrames.
 
-**Requirements**
+**Requirements** 
 
 The analysis requires the following libraries:
 
